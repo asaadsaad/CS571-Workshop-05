@@ -4,7 +4,7 @@ This workshop involves developing a login based mobile application supported by 
 **Your backend server must have 3 routes:**
 * `Sign up` - Public (collect email, password, phone number, location)
 * `Login` - Public (by email)
-* `Logs` - Private (display a list of how many times the user have logged in, timestamp, and from which location)
+* `Logs` - Private (display a list of how many times the user have logged in, timestamp, and from which location) - The log contains both failed and succeeded attempts.
   
 **Your front end application has the following screens:**
 * `Sign up` - Public
