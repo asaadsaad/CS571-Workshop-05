@@ -14,4 +14,5 @@ This workshop involves developing a ReactNative login-based application supporte
 **Notes:**
 * Your mobile app should send an SMS to the user phone number once they login from a new city.  
 * The app will persist the user state and is expected not to require users to login every time they use the application.
+* Write a summary of your analysis on design, and how we could speed up the login process.
 * The deadline to submit your work is Monday 9 PM CST.
