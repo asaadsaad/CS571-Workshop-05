@@ -1,5 +1,5 @@
 # CS571 Workshop 05
-This workshop involves developing a login based mobile application supported by a Node backend server. Use `Mongoose` Schema to design your DB according to the following details. 
+This workshop involves developing a ReactNative login-based application supported by a Node backend server. Use `Mongoose` Schema to design your DB according to the following details. 
   
 **Your backend server must have 3 routes:**
 * `Sign up` - Public (collect email, password, phone number, location object contains coords, city, zip code ..etc)
